@@ -1,3 +1,0 @@
-<py-config>
-    packages = ["numpy", "Pillow", "matplotlib"]
-</py-config>
